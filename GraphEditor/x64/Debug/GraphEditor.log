@@ -1,0 +1,17 @@
+﻿  FileReader.cpp
+\FileReader.cpp(1,1): error C1083: Не удается открыть файл источник: FileReader.cpp: No such file or directory,
+  (компиляция исходного файла "/FileReader.cpp")
+  
+  Graph.cpp
+\Graph.cpp(1,1): error C1083: Не удается открыть файл источник: Graph.cpp: No such file or directory,
+  (компиляция исходного файла "/Graph.cpp")
+  
+  GraphEditor.cpp
+\GraphEditor.cpp(1,1): error C1083: Не удается открыть файл источник: GraphEditor.cpp: No such file or directory,
+  (компиляция исходного файла "/GraphEditor.cpp")
+  
+  GraphNode.cpp
+\GraphNode.cpp(1,1): error C1083: Не удается открыть файл источник: GraphNode.cpp: No such file or directory,
+  (компиляция исходного файла "/GraphNode.cpp")
+  
+  Создание кода...
