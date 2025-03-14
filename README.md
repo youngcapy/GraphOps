@@ -15,7 +15,7 @@ make
 
 **How to use**
 
-Choose .txt file with graph configuration.
+Choose .txt file with graph configuration. Program will print all .dot(BGL graph format), .png(graphviz visualization) to execution folder.
 
 Sample:
 
